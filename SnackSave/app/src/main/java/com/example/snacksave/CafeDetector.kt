@@ -8,7 +8,7 @@ import java.io.IOException
 
 object CafeDetector {
 
-    private const val GOOGLE_PLACES_API_KEY = "AIzaSyCFxYdC2s-BNtcrRJ5lkjaL2kfuBVeup7E"
+    private const val GOOGLE_PLACES_API_KEY = "ENTER API KEY HERE"
     private const val RADIUS = 100  // meters
 
     fun checkNearbyCafes(
