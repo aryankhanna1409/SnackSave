@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍪 SnackSave
+<img src="assets/banner.svg" width="100%" alt="SnackSave: An Android app that stops the unnecessary coffee" />
 
 **An Android app that taps you on the shoulder when you're about to buy an unnecessary coffee.**
 
