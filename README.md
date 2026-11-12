@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="SnackSave: An Android app that stops the unnecessary coffee" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" /><img src="assets/banner.svg" width="100%" alt="SnackSave: An Android app that stops the unnecessary coffee" /></picture>
 
 **An Android app that taps you on the shoulder when you're about to buy an unnecessary coffee.**
 
@@ -60,7 +60,7 @@ All source lives in `SnackSave/app/src/main/java/com/example/snacksave/`.
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" /><img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" /></picture>
 
 Made to keep a little more money in your pocket
 
