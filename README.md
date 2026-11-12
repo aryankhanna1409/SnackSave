@@ -4,22 +4,22 @@
 
 **An Android app that taps you on the shoulder when you're about to buy an unnecessary coffee.**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Google Places](https://img.shields.io/badge/Google%20Places-API-EA4335?style=flat-square&logo=googlemaps&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-3b2416?style=flat-square&logo=kotlin&logoColor=efdfc4)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3b2416?style=flat-square&logo=jetpackcompose&logoColor=efdfc4)
+![Android](https://img.shields.io/badge/Android-34%2B-8a5a22?style=flat-square&logo=android&labelColor=1d120b&logoColor=efdfc4)
+![Google Places](https://img.shields.io/badge/Google%20Places-API-8a5a22?style=flat-square&logo=googlemaps&labelColor=1d120b&logoColor=efdfc4)
 
 </div>
 
 ---
 
-## 💡 The idea
+## The idea
 
 Impulse snacks and café stops add up. SnackSave watches your location and, when you're within **100 m of a café**, pops up a nudge: *"Do you really need that coffee? Maybe try a home recipe instead and save that ₹200."*
 
 ---
 
-## ✨ Features
+## Features
 
 | | |
 |---|---|
@@ -33,7 +33,7 @@ Built with Jetpack Compose and Material 3, with navigation between Home, Recipes
 
 ---
 
-## 🚀 Setup
+## Setup
 
 1. Clone the repo and open the `SnackSave/` folder in **Android Studio**.
 2. Get a [Google Places API key](https://developers.google.com/maps/documentation/places/web-service/get-api-key).
@@ -42,7 +42,7 @@ Built with Jetpack Compose and Material 3, with navigation between Home, Recipes
 
 ---
 
-## 📁 Code map
+## Code map
 
 All source lives in `SnackSave/app/src/main/java/com/example/snacksave/`.
 
@@ -60,6 +60,10 @@ All source lives in `SnackSave/app/src/main/java/com/example/snacksave/`.
 
 <div align="center">
 
+<img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" />
+
 Made to keep a little more money in your pocket
+
+<sub>Part of <a href="https://github.com/aryankhanna1409">Aryan Khanna's portfolio</a>: one loop, five pours, from robots to AI systems.</sub>
 
 </div>
